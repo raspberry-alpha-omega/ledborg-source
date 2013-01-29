@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/home/pi/ledborg_gui
+Icon=/home/pi/ledborg_gui.ico
+Terminal=false
+Name=LedBorg
+Comment=LedBorg colour picker
+Categories=Application;Development;
